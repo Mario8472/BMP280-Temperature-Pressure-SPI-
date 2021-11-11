@@ -1,0 +1,1 @@
+6z_1_i2c_pressure_and_temp_to_pc\startup_stm32f072xb.o: startup_stm32f072xb.s
